@@ -3,8 +3,7 @@
 }
 .container{
   position: absolute;
-  top: 50%;
-  left: 50%;
+  margin: auto;
   -moz-transform: translateX(-50%) translateY(-50%);
   -ms-transform: translateX(-50%) translateY(-50%);
   -o-transform: translateX(-50%) translateY(-50%);
