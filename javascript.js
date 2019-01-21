@@ -3,6 +3,23 @@ function newStation() {
   document.getElementById('stationDisplay').innerHTML = stations[randomStation];
 }
 
+function newFact() {
+  var randomFact = Math.floor(math.random() * facts.length);
+  document.getElementById('factDisplay').innerHTML = facts[randomFact]
+}
+
+var facts = [
+  'one-north (CC23) is the only MRT station starting without a capital letter',
+  'Each train on the Circle Line weighs as much as 22 adult Asian elephants',
+  'Promenade Station (CC4/DT15) has 7 platform levels',
+  'Bras Basah Station (CC2) has the longest escalator',
+  'Raffles Place Station (EW14/NS26) has 10 exits',
+  'Toa Payoh Station (NS19) is Singapore\'s first MRT station',
+  'Bartley Station (CC12) has 164,800 one-cent coins.',
+  'Kranji Station (NS7) has 20 fare gates',
+  'Bishan Station (NS17/CC15) was built on a cemetery',
+]
+
 var stations = [
   'Jurong East \n (NS1/EW24/JE5)',
   'Bukit Batok \n (NS2)',
