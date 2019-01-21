@@ -17,3 +17,11 @@ button {
   font-size: 18px;
   text-align: center;
 }
+.box{
+  margin: auto;
+  width: 300px;
+  height: 150px;
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 8px;
+}
