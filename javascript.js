@@ -17,7 +17,7 @@ var facts = [
   'Toa Payoh Station (NS19) is Singapore\'s first MRT station',
   'Bartley Station (CC12) has 164,800 one-cent coins.',
   'Kranji Station (NS7) has 20 fare gates',
-  'Bishan Station (NS17/CC15) was built on a cemetery',
+  'Bishan Station (NS17/CC15) was built on a cemetery'
 ]
 
 var stations = [
