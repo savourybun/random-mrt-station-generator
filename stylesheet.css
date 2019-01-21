@@ -1,17 +1,10 @@
-.body{
-  font-family: 'VT323', monospace; font-size: 22px
+body {
+  font-family: 'Josefin Sans', sans-serif; font-size: 22px
 }
-.container{
-  position: absolute;
-  margin: auto;
-  -moz-transform: translateX(-50%) translateY(-50%);
-  -ms-transform: translateX(-50%) translateY(-50%);
-  -o-transform: translateX(-50%) translateY(-50%);
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-}
-.button{
+button {
   background-color: white;
   border-radius: 8px;
-  border: 1px solid blue;
+  border: 2px solid blue;
+  padding: 10px 24px;
+  font-family: 'Josefin Sans'
 }
