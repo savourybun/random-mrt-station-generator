@@ -32,6 +32,21 @@
   <script src="javascript.js"></script>
   <br>
   <hr>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  }
+})});
+</script>
   <div class="end">
   <p>I plan to add a list of places to see/things to do list for each station in future. So stay tuned!</p>
   <p>You can find the source code <a href="https://github.com/savourybun/random-mrt-station-generator" target="_blank">here</a>. This was inspired by <a href="https://www.reddit.com/r/singapore/comments/ai2y99/rsingapore_random_discussion_and_small_questions/eelat4q/" target="_blank">this reddit comment</a>.</p>
