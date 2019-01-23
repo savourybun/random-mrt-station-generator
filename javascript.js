@@ -19,8 +19,8 @@ var facts = [
   'Kranji Station (NS7) has 20 fare gates.',
   'Bishan Station (NS17/CC15) was built on a cemetery.',
   'The Circle Line is commonly misinterpreted as yellow in colour when it is in actual fact, orange.',
-  'Promenade Station (CC4/DT15) is the current deepest station.',
-  'Tuas Crescent Station (EW31) is the current highest elevated station.'
+  'Promenade Station (CC4/DT15) is currently the deepest station.',
+  'Tuas Crescent Station (EW31) is currently the highest elevated station.'
 ]
 
 var stations = [
