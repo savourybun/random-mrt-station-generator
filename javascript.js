@@ -18,6 +18,7 @@ var facts = [
   'Bartley Station (CC12) has 164,800 one-cent coins.',
   'Kranji Station (NS7) has 20 fare gates.',
   'Bishan Station (NS17/CC15) was built on a cemetery.'
+  'The Circle Line is commonly misinterpreted as yellow when it is in actual fact, orange.'
 ]
 
 var stations = [
