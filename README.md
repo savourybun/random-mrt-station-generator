@@ -1,5 +1,5 @@
 # random-mrt-station-generator
-You can find the live demo version here: https://pao.today/mrt
+You can find the live demo version here: https://mrt.pao.sg
 
 Inspired by this reddit comment: https://www.reddit.com/r/singapore/comments/ai2y99/rsingapore_random_discussion_and_small_questions/eelat4q (I was also bored)
 
